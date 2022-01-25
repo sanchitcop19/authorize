@@ -1,0 +1,29 @@
+{
+    "name": "authorize",
+    "version": "1.0.0",
+    "description": "Authorization code for common APIs",
+    "scripts": {
+        "dropbox": "node dropbox/dropbox.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sanchitcop19/authorize.git"
+    },
+    "keywords": [
+        "authorize",
+        "oauth",
+        "dropbox",
+        "authorization"
+    ],
+    "author": "Sanchit Batra",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/sanchitcop19/authorize/issues"
+    },
+    "homepage": "https://github.com/sanchitcop19/authorize#readme",
+    "dependencies": {
+        "axios": "^0.25.0",
+        "form-data": "^4.0.0",
+        "lodash": "^4.17.21"
+    }
+}
