@@ -7,11 +7,4 @@ Code for all services be structured as follows:
 - secrets.json inside D containing any sensitive attributes required to fetch the Bearer token
 - examples.js containing small snippets using the service's API as a demonstration
 
-Done:
-
-- Dropbox
-
-Coming:
-
-- Spotify
-- Google APIs
+See linked project in the Projects tab for status on the different services.
